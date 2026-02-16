@@ -1,4 +1,4 @@
-# NotebookLM Chat – Curso X
+# NotebookLM Chat – Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
 
 ## Descrição
 Este repositório contém o registro completo de um chat realizado no **Google NotebookLM** para estudo e entrega no Desafio de Projeto **"Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM"** pela DIO.
